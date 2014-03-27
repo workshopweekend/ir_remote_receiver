@@ -1,4 +1,4 @@
-1. Download and install the [IRremote library](http://workshopweekend.net/img/arduino-projects/IRremote.zip).
+1. Download and install the [IRremote library](IRremote.zip).
 
 2. Upload the following code to your Arduino: <%= ir_remote.ino =%>
 
