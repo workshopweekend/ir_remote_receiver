@@ -1,8 +1,7 @@
-1. Download and install the [IRremote library](IRremote.zip).
+1.  Download and install the [IRremote library](IRremote.zip).
 
-2. Upload the following code to your Arduino:
+2.  Upload the following code to your Arduino:
     <%= ir_remote.ino =%>
+3.  Open the __Serial Monitor__ in the Arduino IDE.
 
-3. Open the __Serial Monitor__ in the Arduino IDE.
-
-4. Point a remote at your receiver and press a button to see what gets output to the serial monitor.
+4.  Point a remote at your receiver and press a button to see what gets output to the serial monitor.
