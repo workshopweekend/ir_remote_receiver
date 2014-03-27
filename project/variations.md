@@ -1,0 +1,2 @@
++ Program your Arduino to do different things when different buttons on your remote are pressed.
++ Purchase an IR transmitter and wire that up to your Arduino; have your Arduino remember the codes from your remote and emit them when you press a button. Your Arduino is now a replacement for your remote!
